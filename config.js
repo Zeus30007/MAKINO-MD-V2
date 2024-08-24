@@ -4,7 +4,7 @@ const chalk = require("chalk");
 //to enable function - true
 //to disable function - false
 //
-global.available = false;
+global.available = true;
 global.autoReadGc = false;
 global.autoReadAll = false;
 global.antitags = false;
@@ -20,14 +20,14 @@ global.PM_BLOCKER = false;
 global.CHATBOT = false;
 
 
-global.Owner = ["2348074439626"]; //like 2347080968564 
-global.OwnerName =  "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
-global.BotName = "♱MAKINO-MD-V2♱♡⃤";
-global.packname = "♱MAKINO-MD-V2♱♡⃤";                             //Do not change.
+global.Owner = ["48699514053","918618971837"]; //like 48699514053 
+global.OwnerName =  "╶⃝𝙻𝚄𝚇𝙸4𝙺𝙸𝚃𝚂𝚄♱";
+global.BotName = "╶⃝𝚃𝙷𝙰𝙽𝙰𝚃𝙾𝚂♱";
+global.packname = "╶⃝𝚃𝙷𝙰𝙽𝙰𝚃𝙾𝚂♱";                             //Do not change.
 global.author = "TAIRA MAKINO";                               //Do not change.
-global.BotSourceCode = "https://github.com/anonphoenix007/MAKINO-MD-V2"; //Do not change.
-global.SupportGroupLink = "https://chat.whatsapp.com/KEg0G3UUs1G39ikdyfF5Pm "; 
-global.SupportGroupLink = "https://chat.whatsapp.com/KEg0G3UUs1G39ikdyfF5Pm"; //Do not change!
+global.BotSourceCode = ""; //Do not change.
+global.SupportGroupLink = "https://chat.whatsapp.com/Lah0hBJn6ro4lXbLJik0Y2 "; 
+global.SupportGroupLink = "https://chat.whatsapp.com/ChpEIqZZSKOKyP5XAzOprm"; //Do not change!
 global.menutype = "v3"
 
 global.prefa = ['','!','.',','] 
